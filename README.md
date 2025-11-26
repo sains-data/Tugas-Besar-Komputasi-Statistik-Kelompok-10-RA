@@ -51,7 +51,9 @@ Hasil analisis diharapkan menjadi dasar rekomendasi kebijakan pendidikan daerah.
 | **Laporan_Komstat_10_RA.docx** | Laporan lengkap penelitian                      |
 | **Script R / Notebook**        | Kode analisis dan visualisasi                   |
 | **Dataset**                    | Data putus sekolah SD Kab. Lampung Selatan 2024 |
-
+| **Link Video**                 | Video Terkait Materi yang dibahas               |
+| **PPT**                        | Materi Persentasi                               |
+| **Poster**                     | Poster Terkait Penelitian                       |
 ---
 
 ## 🛠️ Tools & Teknologi
